@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BasicLayout</string>
+    <string name="happy_birthday_text">Happy Birthday, Andrea!</string>
+    <string name="signature_text">From Samuel.</string>
+    <string name="image_description_text">Cupcake de cumpleaños</string>
+</resources>
